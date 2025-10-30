@@ -1,5 +1,13 @@
-<h1 align="center">Hi, I'm Rosa 🌸✨</h1>
+<h1 align="center">Hi, I'm Rosa 🌸</h1>
 <h3 align="center">🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast</h3>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=✨+Full+Stack+Web+Developer;✨+AI+%26+Data+Enthusiast;✨+DevOps+Passionate;✨+CyberSecurity+Explorer;✨+Always+Learning+and+Building..<3">
+  </a>
+</p>
+
 
 
 - 🔭 I’m currently working on [Xception](https://github.com/hibadash/-Breast-Ultrasound-Classification-Using-Xception-CNN-BUSI-Dataset.git)

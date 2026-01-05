@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rosa 🌸</h1>
+<h1 align="center">Hi, I'm Fatima 🌸</h1>
 <h3 align="center">🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast</h3>
 
 

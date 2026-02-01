@@ -11,9 +11,9 @@
 
 
 
-- 🔭 I’m currently working on [Xception](https://github.com/hibadash/-Breast-Ultrasound-Classification-Using-Xception-CNN-BUSI-Dataset.git)
+- 🔭 I’m currently working on [TECHNORA](https://github.com/Zohrae/technora)
 
-- 🌱 I’m currently learning **Angular, Transfer Learning**
+- 🌱 I’m currently learning **Symfony, RBAC, and Cloud Databases**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

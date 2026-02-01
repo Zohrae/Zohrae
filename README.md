@@ -170,16 +170,8 @@
   </a>
 </p>
 
-<!-- Option 2: Alternative with different styling (lighter theme) -->
-<!-- Uncomment this section if you prefer a lighter theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false" alt="zohrae" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&locale=en&theme=default&include_all_commits=true&count_private=true" alt="zohrae" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=default" alt="zohrae" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=radical" alt="GitHub Streak" />
 </p>

@@ -171,7 +171,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra.workers.dev/api/top-langs?username=zohrae&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=github_dark" alt="Streak Stats" />
 </p>
+

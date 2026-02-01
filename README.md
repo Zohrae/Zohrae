@@ -170,14 +170,16 @@
   </a>
 </p>
 
-<!-- GitHub Stats Section -->
-<!-- Option 1: Using multiple theme options and parameters for better reliability -->
+<!-- Option 2: Alternative with different styling (lighter theme) -->
+<!-- Uncomment this section if you prefer a lighter theme -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="zohrae" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false" alt="zohrae" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="zohrae" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&locale=en&theme=default&include_all_commits=true&count_private=true" alt="zohrae" />
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=radical&hide_border=true" alt="zohrae" />
+  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=default" alt="zohrae" />
 </p>

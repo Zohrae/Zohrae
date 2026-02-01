@@ -170,10 +170,14 @@
   </a>
 </p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&locale=en&layout=compact" alt="zohrae" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&locale=en" alt="zohrae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zohrae&" alt="zohrae" /></p>
+<!-- GitHub Stats Section -->
+<!-- Option 1: Using multiple theme options and parameters for better reliability -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zohrae&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="zohrae" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zohrae&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="zohrae" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zohrae&theme=radical&hide_border=true" alt="zohrae" />
+</p>

@@ -4,7 +4,7 @@
 
 <h3 align="center">
   🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast
-  <img src="https://forest.watch.impress.co.jp/img/contents/1613120/952170.gif" width="40" style="vertical-align: middle; margin-left: 10px;" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="40" style="vertical-align: middle; margin-left:10px;" />
 </h3>
 
 

@@ -1,9 +1,11 @@
 <h1 align="center">
   Hi, I'm Fatima 🌸 
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/bongo-cat.gif" width="50" style="vertical-align: middle; float: right;" />
 </h1>
 
-<h3 align="center">🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast</h3>
+<h3 align="center">
+  🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast
+  <img src="https://forest.watch.impress.co.jp/img/contents/1613120/952170.gif" width="40" style="vertical-align: middle; margin-left: 10px;" />
+</h3>
 
 
 <p align="center">

@@ -4,14 +4,14 @@
 
 <h3 align="center">
   🎓 Master’s student in Information Systems Engineering | Full-Stack Developer | AI & Data Enthusiast
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" width="40" style="vertical-align: middle; margin-left:10px;" />
 </h3>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=fadadd&size=25&center=true&vCenter=true&width=700&height=100&lines=✨+Full+Stack+Web+Developer;✨+AI+%26+Data+Enthusiast;✨+Databases+Passionate;✨+DevOps+Passionate;✨+CyberSecurity+Explorer;✨+Always+Learning+and+Building..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=fadadd&size=25&center=true&vCenter=true&width=700&height=100&lines=✨+Full+Stack+Web+Developer;✨+AI+%26+Data+Enthusiast;✨+Databases+Passionate;✨+DevOps+Passionate;✨+CyberSecurity+Explorer;✨+Always+Learning+and+Building..<3">
   </a>
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/bongo-cat.gif" width="60" style="vertical-align: middle; margin-left:10px;" />
 </p>
 
 
